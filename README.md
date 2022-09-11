@@ -2,5 +2,5 @@
 
 Contributor:
 
-- `Alivia Haris - FE2976757`
+- Alivia Haris - FE2976757
 - Bob
